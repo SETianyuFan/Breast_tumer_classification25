@@ -1,0 +1,9 @@
+data_dir: /mnt/cifs/tdsc_project/tdsc_data/slice_data/N1_A2_S30/images
+csv_dir: /mnt/cifs/tdsc_project/tdsc_data/slice_data/N1_A2_S30/csv/output_labels.csv
+fold_num: 0
+batch_size: 10
+num_workers: 4
+max_epochs: 50
+val_interval: 1
+seed: 7
+result_dir: result
